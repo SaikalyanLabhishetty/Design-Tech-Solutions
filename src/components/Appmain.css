@@ -1,0 +1,61 @@
+.section-1 p {
+    color: white;
+    background-color: black;
+}
+.carousal {
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.section-5{
+  height: 23rem;
+  width: 100%;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-top: 4rem;
+  margin-bottom: 5rem;
+  background-color: black;
+  overflow: hidden;
+}
+.section-5 h3{
+  color: white;
+  text-align: center;
+  background-color: black;
+  overflow: hidden;
+}
+.section-5 h5{
+  color: white;
+  text-align: center;
+  background-color: black;
+  margin-top: 10px;
+  overflow: hidden;
+}
+.test{
+  height: 20rem;
+  width: 20rem;
+  background-color: transparent;
+  
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.test img{
+  height: 10rem;
+  width: 20rem;
+}
+.test h3{
+  color: white;
+  font-family: "Berkshire Swash";
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.test p {
+  color: aliceblue;
+  font-family: "Mulish";
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
