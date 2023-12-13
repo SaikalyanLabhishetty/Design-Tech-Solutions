@@ -1,5 +1,7 @@
+/* Footer.css */
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
-footer{
+
+footer {
     background-color: #000000;
     color: white;
     padding: 1.2rem 0;
@@ -11,13 +13,22 @@ footer{
     margin-left: 1rem;
 }
 
-.footer-center  {
-    flex: 3;
+.footer-left,
+.footer-right,
+.footer-center {
+    flex: 1;
 }
-.footer-center > p{
-  font-size: 15px;
+.small-logo {
+  width: 20px; 
+  height: 20px;/* Adjust the width as needed */
+  margin-bottom: 15px; /* Adjust the margin as needed */
 }
-.hr_1{
-  color: white;
- font-size: larger;
+
+.footer-center > p {
+    font-size: 15px;
+}
+
+.hr_1 {
+    color: white;
+    font-size: larger;
 }
