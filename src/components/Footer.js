@@ -19,8 +19,8 @@ const AppFooter = () => {
                 </div>
                 <div className="footer-right">
                     <h5 style={{overflow:"hidden"}}>Additional Contact Details:</h5>
-                    <p>Shiva Kumar Pathi - 6281505609</p>
-                    <p>Amar Kumar Nicheng - 7013072159</p>
+                    <p>Shiva Kumar Pathi - 6281505609 <br/>
+                    Amar Kumar Nicheng - 7013072159</p>
                 </div>
             </footer>
         </>
