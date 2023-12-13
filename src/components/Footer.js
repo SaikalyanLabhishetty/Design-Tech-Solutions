@@ -10,7 +10,6 @@ const AppFooter = () => {
                 <div className="footer-left">
                     <h5 style={{overflow:"hidden"}}>Contact: </h5>
                     <p>Managing Director: Tembornikar Rikhitha</p>
-                    <p>Email : designtechsolutions2@gmail.com</p>
                 </div>
                 <div className="footer-center">
                     <img src='./images/logo_final.png' alt='Small Logo' className='small-logo' />
