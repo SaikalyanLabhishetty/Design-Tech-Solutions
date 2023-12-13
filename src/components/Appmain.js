@@ -23,7 +23,7 @@ const Appmain = () => {
         </div>
         <div className='section-5'>
         <h3>
-          <u>Courses Offered</u>
+          <u>Courses & Internships Offered</u>
         </h3>
        <Marquee direction="left" speed={60} height={100} style={{margin:"0",padding:"0"}}>
         {Info.map((info,index) => (
